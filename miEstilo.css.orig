@@ -2,6 +2,8 @@ body {
 <<<<<<< HEAD
     background-color:orange;
 =======
-    background-color: blue;
->>>>>>> 76ec065b9c247dd7e8797ef40f918c2a19742bd9
+    background-color:blue;
+>>>>>>> cf02f90 (background blue)
+    background-image:"";
+    background-repeat:"";
 }
