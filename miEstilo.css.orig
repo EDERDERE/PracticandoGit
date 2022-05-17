@@ -1,9 +1,0 @@
-body {
-<<<<<<< HEAD
-    background-color:orange;
-=======
-    background-color:blue;
->>>>>>> cf02f90 (background blue)
-    background-image:"";
-    background-repeat:"";
-}
